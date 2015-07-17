@@ -4,3 +4,7 @@
 
 $topbar-height: rem-calc(55);
 $topbar-bg-color: #1C292D;
+$topbar-dropdown-bg: $topbar-bg-color;
+$topbar-dropdown-link-bg: $topbar-bg-color;
+$topbar-dropdown-link-bg-hover: lighten($topbar-bg-color, 15%);
+$topbar-dropdown-label-bg: $topbar-bg-color;
